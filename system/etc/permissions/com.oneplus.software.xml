@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Rapchick Engine — OnePlus 15 EU Spoof
+    OxygenOS software feature declarations
+    Author: Ozyern (@reimagine)
+-->
+<permissions>
+    <feature name="com.oneplus.software.oos" />
+    <feature name="com.oneplus.software.oos.n_theme_ready" />
+</permissions>
