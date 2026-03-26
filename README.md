@@ -95,9 +95,9 @@ SukiSU Ultra uses the **KernelSU module format** — no `META-INF`, no `update-b
 
 ---
 
-## Part of Rapchick Engine
 
-- 🌐 [ozyern.me](https://ozyern.me)
+
+- 🌐 [Website](https://about.ozyern.me)
 - 📦 More modules coming soon
 
 ---
